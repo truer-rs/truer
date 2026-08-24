@@ -7,8 +7,9 @@ version = "0.1.0"
 edition = "2024"
 rust-version = "1.85"
 license = "MIT"
-repository = "https://github.com/truer-dev/truer"
-description = "Keep your architecture true. Declare it once, enforce it in every language."
+repository = "https://github.com/truer-rs/truer"
+homepage = "https://truer.rs"
+description = "A declarative, language-agnostic architecture linter written in Rust."
 
 [workspace.lints.rust]
 unsafe_code = "forbid"
